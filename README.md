@@ -111,9 +111,11 @@ Expand product range or improve visibility in underrepresented categories with p
 Encourage reviews and ratings through post-purchase follow-ups, especially in categories with low engagement but high sales volume.
 
 
-### Project File
+### Project Snapshot
 ![image](https://github.com/user-attachments/assets/ee247499-c25b-4d6f-bdf1-99141bfdaf1e)
 ![image](https://github.com/user-attachments/assets/af4d7610-baec-4884-8e54-276ea93363e0)
 
+### Project File
+https://docs.google.com/spreadsheets/d/1A2e9KpS5HTPKX_wjl5ETBmCCct8ZtKAx/edit?usp=sharing&ouid=113449647335728769638&rtpof=true&sd=true
 Adopt Dynamic Inventory Management
 Align stock levels with categories and products showing the best engagement and revenue potential to reduce dead stock and increase turnover.
