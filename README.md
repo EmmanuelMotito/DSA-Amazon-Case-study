@@ -113,6 +113,7 @@ Encourage reviews and ratings through post-purchase follow-ups, especially in ca
 
 ### Project File
 ![image](https://github.com/user-attachments/assets/ee247499-c25b-4d6f-bdf1-99141bfdaf1e)
+![image](https://github.com/user-attachments/assets/af4d7610-baec-4884-8e54-276ea93363e0)
 
 Adopt Dynamic Inventory Management
 Align stock levels with categories and products showing the best engagement and revenue potential to reduce dead stock and increase turnover.
