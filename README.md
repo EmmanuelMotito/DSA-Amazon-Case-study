@@ -112,9 +112,7 @@ Encourage reviews and ratings through post-purchase follow-ups, especially in ca
 
 
 ### Project File
+![image](https://github.com/user-attachments/assets/ee247499-c25b-4d6f-bdf1-99141bfdaf1e)
 
-https://docs.google.com/spreadsheets/d/1A2e9KpS5HTPKX_wjl5ETBmCCct8ZtKAx/edit?usp=sharing&ouid=113449647335728769638&rtpof=true&sd=true
-
-#### [Emmanuel_Motito Pivot Table Project.xlsx](https://github.com/user-attachments/files/21057130/Emmanuel_Motito.Pivot.Table.Project.xlsx)
 Adopt Dynamic Inventory Management
 Align stock levels with categories and products showing the best engagement and revenue potential to reduce dead stock and increase turnover.
